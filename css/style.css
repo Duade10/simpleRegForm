@@ -44,3 +44,16 @@ input[type="email"]{
 input[type="date"]{
     color:#121212;
 }
+
+button{
+    height: 40px;
+    width:100px;
+    margin: 0 auto;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: cursive;
+    border: none;
+    background-color: rgb(14, 161, 219);
+    color:#DDD;
+    border-radius: 10px;
+}
